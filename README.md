@@ -8,6 +8,8 @@ LAB 01 - 07 updated and finished in the repository
 
 Project Documentation: 
 
+[Video Demonstration](https://youtu.be/1jesovtw6rY)
+
 ## Go kitesurfing or waste a day on the beach
 ### Kitesurfing sessions labeling with help of machine vision
 
